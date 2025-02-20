@@ -27,7 +27,7 @@ Conducted an A/B test using the Kruskal-Wallis test in Python to analyze the imp
   <img src="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ftop10fastfood_main_1200.jpg&h=570&w=855&q=100&v=20170226&c=1" alt="My centered image" width="350" height="275"/>
 </div>
 
-[View source Code](/Fast_Food_Marketing_Campaign _AB_Testing.ipynb)
+[View source Code](https://github.com/lamonteiro937/Portfolio/blob/aca6ee78dc3aec8456e07877a9bd0e7bd1bb1d35/Fast_Food_Marketing_Campaign%20_AB_Testing.ipynb).
 
 ### Credit Card Fraud Detection
 
