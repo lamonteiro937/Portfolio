@@ -8,8 +8,13 @@
 
 ## Work Experience
 **Data Scientist @ J.P Morgan Chase (_February 2022 - November 2024_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Collaborated with product development and technology teams as the client service stakeholder to drive new platform adoption, mobilizing client service teams and utilizing Python to address migration gaps, including entitlements for 1,200+ clients. This initiative led to $2M in cost savings through the successful decommissioning of the legacy platform.
+- Developed a centralized repository for 2,000 fee agreements and led their migration to the cloud while engineering fee agreement digitalization using natural language modeling (NLM) in collaboration with AI team. This initiative reduced $2M in billing errors during the first year, decreased information retrieval time, and centralized fee agreements for enhanced access and visibility.
+- Performed exploratory data analysis (EDA) on client experience ratings and applied machine learning techniques, including decision trees and random forests, to identify key factors influencing client satisfaction. This led to enhanced client experiences and a more targeted focus on specific products and services for clients.
+- Developed automations for cost-to-serve models, fund management fees, and financial reporting schedules using Python, Alteryx, and UiPath, resulting in improved client satisfaction, optimized pricing strategies, minimized risk across processes, and a reduction of 300+ hours of manual work annually.
+- Designed and deployed interactive Tableau dashboards to analyze operational costs for potential subscribed services and enhance visibility into internal and external platform usage, resulting in improved client proposal estimations, informed strategic decisions for new client acquisition, enhanced client experiences across all platforms, and growth in subscribed services.
+
+
 
 ## Projects
 ### Fast Food Marketing Campaign A/B Testing
@@ -26,7 +31,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 <div style="text-align: center;">
-  <img src="https://cdn.prod.website-files.com/678b8171aaf08b155798f8fb/67b2c88c3ea1fd433bfc9de7_5-p-2000.png" alt="My centered image" width="600" height="400"/>
+  <img src="https://cdn.prod.website-files.com/678b8171aaf08b155798f8fb/67b2c88c3ea1fd433bfc9de7_5-p-2000.png" alt="My centered image" width="750" height="400"/>
 </div>
 
 ### Netflix Recommendation Systems
