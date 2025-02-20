@@ -7,6 +7,9 @@
 - B.S., Mathematics | Salem State University (_December 2020_)
 
 ## Work Experience
+<div style="text-align: left;">
+  <img src="[https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ftop10fastfood_main_1200.jpg&h=570&w=855&q=100&v=20170226&c=1](https://assets.bizclikmedia.net/900/1f5eaa4ba8ac1dfd241a4f12652f5f64:a67ead712eb42c374a8298694212d254/picture)" alt="My centered image" width="50" height="50"/>
+</div>
 **Data Scientist @ J.P Morgan Chase (_February 2022 - November 2024_)**
 - Collaborated with product development and technology teams as the client service stakeholder to drive new platform adoption, mobilizing client service teams and utilizing Python to address migration gaps, including entitlements for 1,200+ clients. This initiative led to $2M in cost savings through the successful decommissioning of the legacy platform.
 - Developed a centralized repository for 2,000 fee agreements and led their migration to the cloud while engineering fee agreement digitalization using natural language modeling (NLM) in collaboration with AI team. This initiative reduced $2M in billing errors during the first year, decreased information retrieval time, and centralized fee agreements for enhanced access and visibility.
@@ -21,7 +24,7 @@
 Conducted an A/B test using the Kruskal-Wallis test in Python to analyze the impact of three different marketing campaigns for a new product at a fast-food chain. By evaluating weekly sales data from multiple locations, the most effective promotional strategy was identified, enabling the company to make data-driven decisions that maximize sales and optimize marketing spend for the new menu item.
 
 <div style="text-align: center;">
-  <img src="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ftop10fastfood_main_1200.jpg&h=570&w=855&q=100&v=20170226&c=1" alt="My centered image" width="600" height="400"/>
+  <img src="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ftop10fastfood_main_1200.jpg&h=570&w=855&q=100&v=20170226&c=1" alt="My centered image" width="300" height="300"/>
 </div>
 
 ### Credit Card Fraud Detection
@@ -29,13 +32,13 @@ Conducted an A/B test using the Kruskal-Wallis test in Python to analyze the imp
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 <div style="text-align: center;">
-  <img src="https://cdn.prod.website-files.com/678b8171aaf08b155798f8fb/67b2c88c3ea1fd433bfc9de7_5-p-2000.png" alt="My centered image" width="750" height="400"/>
+  <img src="https://cdn.prod.website-files.com/678b8171aaf08b155798f8fb/67b2c88c3ea1fd433bfc9de7_5-p-2000.png" alt="My centered image" width="400" height="300"/>
 </div>
 
 ### Netflix Recommendation Systems
 Developed a recommendation system for Netflix using Python to enhance user experience and increase platform engagement. By leveraging rank-based, user-item collaborative filtering, and matrix factorization techniques, the system delivered personalized movie recommendations. This improved user satisfaction, increased the time customers spent on the platform, and contributed to higher engagement and retention rates, driving overall growth for Netflix.
 
 <div style="text-align: center;">
-  <img src="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" alt="My centered image" width="600" height="400"/>
+  <img src="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" alt="My centered image" width="300" height="300"/>
 </div>
 
