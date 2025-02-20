@@ -29,7 +29,7 @@ Conducted an A/B test using the Kruskal-Wallis test in Python to analyze the imp
 
 ### Credit Card Fraud Detection
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Developed and implemented machine learning models, including Random Forest and advanced techniques like SMOTE and SMOTE Tomek Links, to enhance credit card fraud detection. By addressing class imbalance and improving model accuracy, the solution significantly reduced false positives, better identified fraudulent transactions, and contributed to minimizing financial losses, improving customer trust, and optimizing fraud prevention efforts for the bank.
 
 <div style="text-align: center;">
   <img src="https://cdn.prod.website-files.com/678b8171aaf08b155798f8fb/67b2c88c3ea1fd433bfc9de7_5-p-2000.png" alt="My centered image" width="400" height="300"/>
