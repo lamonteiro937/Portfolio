@@ -8,7 +8,7 @@
 
 ## Work Experience
 <div style="text-align: left;">
-  <img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/xcmxfdnrjp3ra61swsxe" alt="My centered image" width="50" height="50"/>
+  <img src="https://assets.bizclikmedia.net/900/1f5eaa4ba8ac1dfd241a4f12652f5f64:a67ead712eb42c374a8298694212d254/picture" alt="My centered image" width="50" height="50"/>
 </div>
 **Data Scientist @ J.P Morgan Chase (_February 2022 - November 2024_)**
 - Collaborated with product development and technology teams as the client service stakeholder to drive new platform adoption, mobilizing client service teams and utilizing Python to address migration gaps, including entitlements for 1,200+ clients. This initiative led to $2M in cost savings through the successful decommissioning of the legacy platform.
