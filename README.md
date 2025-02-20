@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL
+#### Technical Skills: Python, SQL, Alteryx, UiPath
 
 ## Education		       
 - A.S., Science | University of Massachusetts Lowell (_May 2017_)
