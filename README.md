@@ -27,6 +27,8 @@ Conducted an A/B test using the Kruskal-Wallis test in Python to analyze the imp
   <img src="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ftop10fastfood_main_1200.jpg&h=570&w=855&q=100&v=20170226&c=1" alt="My centered image" width="350" height="275"/>
 </div>
 
+[View source Code]([https://pages.github.com/](https://github.com/lamonteiro937/Fast_Food_Marketing_Campaign_AB_Testing/blob/main/Fast_Food_Marketing_Campaign%20_AB_Testing.ipynb))
+
 ### Credit Card Fraud Detection
 
 Developed and implemented machine learning models, including Random Forest and advanced techniques like SMOTE and SMOTE Tomek Links, to enhance credit card fraud detection. By addressing class imbalance and improving model accuracy, the solution significantly reduced false positives, better identified fraudulent transactions, and contributed to minimizing financial losses, improving customer trust, and optimizing fraud prevention efforts for the bank.
