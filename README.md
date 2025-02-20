@@ -18,7 +18,7 @@
 
 ## Projects
 ### Fast Food Marketing Campaign A/B Testing
-Conducted an A/B test using the Kruskal-Wallis test to analyze the impact of three different marketing campaigns for a new product at a fast-food chain. By evaluating weekly sales data from multiple locations, the most effective promotional strategy was identified, enabling the company to make data-driven decisions that maximize sales and optimize marketing spend for the new menu item.
+Conducted an A/B test using the Kruskal-Wallis test in Python to analyze the impact of three different marketing campaigns for a new product at a fast-food chain. By evaluating weekly sales data from multiple locations, the most effective promotional strategy was identified, enabling the company to make data-driven decisions that maximize sales and optimize marketing spend for the new menu item.
 
 <div style="text-align: center;">
   <img src="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ftop10fastfood_main_1200.jpg&h=570&w=855&q=100&v=20170226&c=1" alt="My centered image" width="600" height="400"/>
