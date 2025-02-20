@@ -18,9 +18,7 @@
 
 ## Projects
 ### Fast Food Marketing Campaign A/B Testing
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Conducted an A/B test using the Kruskal-Wallis test to analyze the impact of three different marketing campaigns for a new product at a fast-food chain. By evaluating weekly sales data from multiple locations, the most effective promotional strategy was identified, enabling the company to make data-driven decisions that maximize sales and optimize marketing spend for the new menu item.
 
 <div style="text-align: center;">
   <img src="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ftop10fastfood_main_1200.jpg&h=570&w=855&q=100&v=20170226&c=1" alt="My centered image" width="600" height="400"/>
@@ -35,9 +33,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 </div>
 
 ### Netflix Recommendation Systems
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed a recommendation system for Netflix using Python to enhance user experience and increase platform engagement. By leveraging rank-based, user-item collaborative filtering, and matrix factorization techniques, the system delivered personalized movie recommendations. This improved user satisfaction, increased the time customers spent on the platform, and contributed to higher engagement and retention rates, driving overall growth for Netflix.
 
 <div style="text-align: center;">
   <img src="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" alt="My centered image" width="600" height="400"/>
