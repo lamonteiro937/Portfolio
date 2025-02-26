@@ -12,8 +12,8 @@
 </div>
 **Data Scientist @ J.P Morgan Chase (_February 2022 - November 2024_)**
 - Collaborated with product development and technology teams as the client service stakeholder to drive new platform adoption, mobilizing client service teams and utilizing Python to address migration gaps, including entitlements for 1,200+ clients. This initiative led to $2M in cost savings through the successful decommissioning of the legacy platform.
-- Developed a centralized repository for 2,000 fee agreements and led their migration to the cloud while engineering fee agreement digitalization using natural language modeling (NLM) in collaboration with AI team. This initiative reduced $2M in billing errors during the first year, decreased information retrieval time, and centralized fee agreements for enhanced access and visibility.
-- Performed exploratory data analysis (EDA) on client experience ratings and applied machine learning techniques, including decision trees and random forests, to identify key factors influencing client satisfaction. This led to enhanced client experiences and a more targeted focus on specific products and services for clients.
+- Developed a centralized repository for 2,000 fee agreements and led their migration to the cloud while engineering fee agreement digitalization using natural language modeling (NLM) via Python in collaboration with AI team. This initiative reduced $2M in billing errors during the first year, decreased information retrieval time, and centralized fee agreements for enhanced access and visibility.
+- Performed exploratory data analysis (EDA) on client experience ratings and applied machine learning techniques, including decision trees and random forests, to identify key factors influencing client satisfaction via Python. This led to enhanced client experiences and a more targeted focus on specific products and services for clients.
 - Developed automations for cost-to-serve models, fund management fees, and financial reporting schedules using Python, Alteryx, and UiPath, resulting in improved client satisfaction, optimized pricing strategies, minimized risk across processes, and a reduction of 300+ hours of manual work annually.
 - Designed and deployed interactive Tableau dashboards to analyze operational costs for potential subscribed services and enhance visibility into internal and external platform usage, resulting in improved client proposal estimations, informed strategic decisions for new client acquisition, enhanced client experiences across all platforms, and growth in subscribed services.
 
@@ -27,7 +27,7 @@ Conducted an A/B test using the Kruskal-Wallis test in Python to analyze the imp
   <img src="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ftop10fastfood_main_1200.jpg&h=570&w=855&q=100&v=20170226&c=1" alt="My centered image" width="350" height="275"/>
 </div>
 
-[View source Code](https://github.com/lamonteiro937/Portfolio/blob/d2f5326a5905f819bc2c93bbb8bfb2a1fd41fd67/Projects/Fast_Food_Marketing_Campaign%20_AB_Testing.ipynb).
+[View source Code](https://github.com/lamonteiro937/Portfolio/blob/d2f5326a5905f819bc2c93bbb8bfb2a1fd41fd67/Projects/Fast_Food_Marketing_Campaign%20_AB_Testing.ipynb)
 
 ### Credit Card Fraud Detection
 
@@ -37,6 +37,8 @@ Developed and implemented machine learning models, including Random Forest and a
   <img src="https://cdn.prod.website-files.com/678b8171aaf08b155798f8fb/67b2c88c3ea1fd433bfc9de7_5-p-2000.png" alt="My centered image" width="500" height="375"/>
 </div>
 
+[View source Code]
+
 ### Netflix Recommendation Systems
 Developed a recommendation system for Netflix using Python to enhance user experience and increase platform engagement. By leveraging rank-based, user-item collaborative filtering, and matrix factorization techniques, the system delivered personalized movie recommendations. This improved user satisfaction, increased the time customers spent on the platform, and contributed to higher engagement and retention rates, driving overall growth for Netflix.
 
@@ -44,3 +46,4 @@ Developed a recommendation system for Netflix using Python to enhance user exper
   <img src="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" alt="My centered image" width="350" height="300"/>
 </div>
 
+[View source Code](https://github.com/lamonteiro937/Portfolio/blob/fba4390b74a2ff5d706af6a35982a6b9351ab1e7/Projects/Netflix_Recommendation_System.ipynb)
