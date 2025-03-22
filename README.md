@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Java, Apache Spark, Tableau, Alteryx, UiPath
+#### Technical Skills: Python, SQL, Java, Apache Spark, Tableau, Alteryx, UiPath, HTML, CSS, JavaScript, Amazon S3
 
 ## Education		       
 - A.S., Science | University of Massachusetts Lowell (_May 2017_)
